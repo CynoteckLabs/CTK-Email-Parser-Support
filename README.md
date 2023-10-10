@@ -5,6 +5,6 @@ This is Support repo for CTK Email Parser
 Access all version details here [VersionHistory.md](VersionHistory.md)
 
 ## Support
-For any issues/support needs, pleease create an issue at [issues](https://github.com/CynoteckLabs/CTK-Email-Parser-Support/issues)
+For any issues/support needs, please create an issue at [issues](https://github.com/CynoteckLabs/CTK-Email-Parser-Support/issues)
 
 
